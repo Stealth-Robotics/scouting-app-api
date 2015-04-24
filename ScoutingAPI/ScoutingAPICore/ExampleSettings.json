@@ -1,0 +1,19 @@
+﻿{
+    "DataComponents": [
+        {
+            "Header": "Autonomous",
+            "Type": "NullableSlider",
+            "IncludeIfNull": true,
+            "NullEquivalent": 0,
+            "Minimum": 0,
+            "Maximum": 10
+        },
+        {
+            "Header": "Stacking",
+            "Type": "NullableSlider",
+            "IncludeIfNull": false,
+            "Minimum": 0,
+            "Maximum": 10
+        }
+    ]
+}
